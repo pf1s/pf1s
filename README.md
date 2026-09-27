@@ -1,16 +1,14 @@
-# README.md
+⌈ **About me** ⌋
 
-⌈About me⌋ 
-
-⬢ Entrepreneur 
+⬢ Entrepreneur
 ⬢ Ex-Staff GLaDOS
 
 · · ─────── · ⛥ · ─────── · ·
 
 **__Dev en__ :**
-⬢ C/C++
+⬢ C / C++
 ⬢ Python
-⬢ JavaScript
+⬢ JavaScript / TypeScript
 
 · · ─────── · ⛥ · ─────── · ·
 
@@ -19,4 +17,4 @@
 
 · · ─────── · ⛥ · ─────── · ·
 
-~ Soyez rassurés, Dieu est de retour ~
+> *Soyez rassurés, Dieu est de retour*
